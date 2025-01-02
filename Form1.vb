@@ -18,7 +18,8 @@ Public Class Form1
         {"https://red.flag.domains/index.xml", True},
         {"https://www.zerodayinitiative.com/rss/upcoming/", True},
         {"https://api.msrc.microsoft.com/update-guide/rss", True},
-        {"https://www.cert.ssi.gouv.fr/alerte/feed/", True}
+        {"https://www.cert.ssi.gouv.fr/alerte/feed/", True},
+        {"https://leak-lookup.com/rss", True}
     }
 
 
