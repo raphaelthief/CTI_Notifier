@@ -19,7 +19,8 @@ Public Class Form1
         {"https://www.zerodayinitiative.com/rss/upcoming/", True},
         {"https://api.msrc.microsoft.com/update-guide/rss", True},
         {"https://www.cert.ssi.gouv.fr/alerte/feed/", True},
-        {"https://leak-lookup.com/rss", True}
+        {"https://leak-lookup.com/rss", True},
+        {"https://poc-in-github.motikan2010.net/rss/", True}
     }
 
 
